@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TPL_Lab01_02_Finite-state_machine", "TPL_Lab01_02_Finite-state_machine\TPL_Lab01_02_Finite-state_machine.vcxproj", "{57250A69-0850-4A5D-96FA-E277227A24BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57250A69-0850-4A5D-96FA-E277227A24BA}.Debug|x64.ActiveCfg = Debug|x64
+		{57250A69-0850-4A5D-96FA-E277227A24BA}.Debug|x64.Build.0 = Debug|x64
+		{57250A69-0850-4A5D-96FA-E277227A24BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{57250A69-0850-4A5D-96FA-E277227A24BA}.Debug|x86.Build.0 = Debug|Win32
+		{57250A69-0850-4A5D-96FA-E277227A24BA}.Release|x64.ActiveCfg = Release|x64
+		{57250A69-0850-4A5D-96FA-E277227A24BA}.Release|x64.Build.0 = Release|x64
+		{57250A69-0850-4A5D-96FA-E277227A24BA}.Release|x86.ActiveCfg = Release|Win32
+		{57250A69-0850-4A5D-96FA-E277227A24BA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {819B5DB0-198A-4EC4-A040-51BBB4A466B2}
+	EndGlobalSection
+EndGlobal

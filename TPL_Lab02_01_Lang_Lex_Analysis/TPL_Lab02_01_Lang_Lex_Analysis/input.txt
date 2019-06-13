@@ -1,0 +1,6 @@
+<>=
+<> >< >= =<
+and or not
+For 1asd asd%asd
+
+do while a < b and b <= c b=b+c-20 loop

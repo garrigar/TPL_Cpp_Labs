@@ -1,0 +1,28 @@
+do while not x 
+x = x + not
+loop
+
+do while x x loop
+
+do while x == x loop
+
+do while 
+x = x + 1;
+loop
+
+do while ; loop
+
+do while not x <> y  or b loop
+
+do while not x and b 
+x = x + 1;
+b = z / 12 + bigNum - min * 192;
+loop
+
+do while x and d or x and b loop
+
+do while not x and not b 
+x = x + 1;
+loop
+
+do while not x <> y and z loop
